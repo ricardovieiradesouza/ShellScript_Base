@@ -2,8 +2,7 @@
 # Template orgulhosamente criado por (Shell-Base)
 
 #-----------HEADER-------------------------------------------------------------|
-# AUTOR             : Jefferson Rocha <lrcjefferson@gmail.com>
-# HOMEPAGE          : https://slackjeff.github.io 
+# AUTOR             : Ricardo Souza <ricardosouza,suporte@outlook.com>
 # DATA-DE-CRIAÇÃO   : 2018-03-26
 # PROGRAMA          : Shell-Base
 # VERSÃO            : 1.0.1
@@ -12,8 +11,6 @@
 #                     como deve ser!
 #                     Seus programas serão mais profissionais com o Shell-Base.
 # CHANGELOG :
-#
-# 2019-12-13 - Vovolinux
 # - Incluída a verificação de r00t como default para os templates criados.
 # - Incluída a variavel 'extensao' para permitir a criação de scripts sem uma
 #   extensão ou com uma extensão diferente da variável 'interpretador'.
